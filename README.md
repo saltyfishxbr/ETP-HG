@@ -1,5 +1,5 @@
 # ETP-HG
-This is the source code of ETH-TP for HighD dataset. You can run visualization.py to check the result of pretrained model. You can download the pretrained model and processed dataset via https://drive.google.com/drive/folders/19j2SMnS9TMHewTTBBTbhSrFxWUgw5QZf?usp=drive_link
+This is the source code of EHTP for HighD dataset. You can run visualization.py to check the result of pretrained model. You can download the pretrained model and processed dataset via https://drive.google.com/drive/folders/19j2SMnS9TMHewTTBBTbhSrFxWUgw5QZf?usp=drive_link
 
 There is a figure of result in this repository.
 
